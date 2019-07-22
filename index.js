@@ -11,9 +11,11 @@
 
 
 const solAssert = require('./sol-assert');
+const errors = require('./errors');
 
 module.exports = {
 
-  'solAssert': solAssert
+  'solAssert': solAssert,
+  'errors': errors
 
 }
