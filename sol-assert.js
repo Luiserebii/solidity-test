@@ -1,11 +1,13 @@
 /**
- 
+
+Class to contain all Solidity assert functions  
 
 */
 
-
 'use strict';
 
+const chai = require('chai');
+const assert = chai.assert;
 
 class SolAssert {
 
