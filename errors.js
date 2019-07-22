@@ -4,6 +4,8 @@ Common error strings, for convenience. Idea is that user can simply throw these 
 
 */
 
+'use strict';
+
 const errors = {
 
   openzeppelin: {
