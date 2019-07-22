@@ -1,0 +1,23 @@
+{
+  "name": "solidity-test",
+  "version": "1.0.0",
+  "description": "Solidity test suite, with helper functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luiserebii/solidity-test.git"
+  },
+  "author": "Luiserebii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luiserebii/solidity-test/issues"
+  },
+  "homepage": "https://github.com/Luiserebii/solidity-test#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
