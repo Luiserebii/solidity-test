@@ -10,8 +10,8 @@
  */
 
 
-const solAssert = require('./sol-assert');
-const errors = require('./errors');
+const solAssert = require('./src/sol-assert');
+const errors = require('./src/errors');
 
 module.exports = {
 
