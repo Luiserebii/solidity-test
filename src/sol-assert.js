@@ -32,3 +32,5 @@ class SolAssert {
   }
 
 }
+
+module.exports = SolAssert;
