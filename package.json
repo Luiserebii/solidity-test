@@ -1,6 +1,6 @@
 {
   "name": "solidity-test",
-  "version": "0.0.6-alpha",
+  "version": "0.0.7-alpha",
   "description": "Solidity test suite, with helper functions.",
   "main": "index.js",
   "scripts": {
